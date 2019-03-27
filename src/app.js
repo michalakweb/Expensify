@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 // CSS
 import 'normalize.css/normalize.css'
 import './styles/styles.scss';
+import 'react-dates/lib/css/_datepicker.css'; 
 // The app
 import AppRouter from './routers/AppRouter';
 // Redux
