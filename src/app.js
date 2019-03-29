@@ -11,6 +11,8 @@ import configureStore from './store/configureStore'
 import { addExpense } from './actions/expenses';
 import getVisibleExpenses from './selectors/expenses';
 import { Provider } from 'react-redux';
+// Firebase
+import './firebase/firebase';
 
 const store = configureStore();
 
