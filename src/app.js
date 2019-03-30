@@ -13,6 +13,7 @@ import getVisibleExpenses from './selectors/expenses';
 import { Provider } from 'react-redux';
 // Firebase
 import './firebase/firebase';
+import './playground/promises';
 
 const store = configureStore();
 
