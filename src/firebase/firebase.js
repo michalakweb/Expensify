@@ -1,5 +1,5 @@
 import * as firebase from 'firebase';
-import { EDEADLK } from 'constants';
+
 
 const config = {
     apiKey: "AIzaSyDB2d2Vxjb_6mdW-wWcIbLbwY9k8iwxnEg",
